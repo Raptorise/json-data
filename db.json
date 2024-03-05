@@ -3,18 +3,6 @@
         {
             "idCategoria": 1,
             "nome": "Álgebra",
-            "objetos": [
-                {
-                    "idObjeto": 1,
-                    "nome": "Livro de Álgebra",
-                    "descricao": "Livro de Álgebra feito pelo professor fulano de tal"
-                },
-                 {
-                    "idObjeto": 2,
-                    "nome": "Livro de Álgebra",
-                    "descricao": "Livro de Álgebra feito pelo professor fulano de tal"
-                }
-            ]
         }
     ]
 }
