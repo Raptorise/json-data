@@ -1,8 +1,8 @@
 {
-    "categorias": [
+    "categorias":[
         {
-            "idCategoria": 1,
-            "nome": "Álgebra"
+            "idCategoria":1,
+            "nome":"Álgebra"
         }
     ]
 }
